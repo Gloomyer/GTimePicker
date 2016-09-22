@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pickerview_wheelview_textcolor_out">#a0a0a0</color>
+    <color name="pickerview_wheelview_textcolor_center">#78d2a0</color>
+    <color name="pickerview_wheelview_textcolor_divider">#78d2a0</color>
+    <!--覆盖颜色-->
+    <color name="bgColor_overlay">#60000000</color>
+
+</resources>
